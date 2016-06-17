@@ -53,3 +53,13 @@ Calendar API (not checked yet).
 #### ???
 
 (work in progress)
+
+### Architecture and libraries
+
+(work in progress)
+
+* [Dagger](http://square.github.io/dagger)
+* [Android Times Square](https://github.com/square/android-times-square)
+* [Retrofit](http://square.github.io/retrofit)
+* [Picasso](http://square.github.io/picasso)
+* [Otto](http://square.github.io/otto)
